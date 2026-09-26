@@ -1,4 +1,4 @@
-const token = "";
+const token = "puturtokenhere";
 
 const response = await fetch("https://discord.com/api/v10/collectibles-categories", {
   headers: {
